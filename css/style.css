@@ -9,10 +9,6 @@
 }
 #slide-fix{
     margin-top: 50px;
-    padding-top: 30px;
-    height: 100%;
-}
-#slider-fix{
-    height: 100%;
-    object-fit: cover;
+     padding-top: 30px;
+    height: 600px;
 }
